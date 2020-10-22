@@ -16,7 +16,7 @@ class Main {
     if(myAge >= 16){
     System.out.println("You can drive legally now!");
     
-    }else if(myAge <= 15){
+    }else if(myAge >= 15){
     System.out.println("You can't drive!");
     }
   
